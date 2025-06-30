@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Virtual environment
+spek-env/
+
+# MATLAB
+*.asv
+*.m~
+
+# Audio/outputs
+*.wav
+*.flac
+*.mp3
+*.png
+*.aif
+*.m4a
+
+# Streamlit
+.streamlit/
